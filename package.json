@@ -29,7 +29,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "s3-sync": "https://github.com/mcdave-stanford/s3-sync.git",
+    "s3-sync": "https://github.com/mcdave-stanford/s3-sync/tarball/master",
     "rimraf": "~2.2.2",
     "through": "~2.3.4",
     "async": "~0.2.9"
